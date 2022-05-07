@@ -14,7 +14,7 @@ body{
 }
 #leftsidebar{
     width: 20%;
-    background-color: red;
+    background-color: rgb(178, 192, 53);
     display: inline-block;
     height: 2000px;
     float: left;
@@ -22,7 +22,7 @@ body{
 }
 #content{
     width: 60%;
-    background-color: rgb(0, 255, 34);
+    background-color: rgb(68, 95, 6);
     display: inline-block;
     height: 2000px;
     margin: 0px;
@@ -30,7 +30,7 @@ body{
 }
 #rightsidebar{
     width: 20%;
-    background-color: red;
+    background-color: rgb(178, 192, 53);
     display: inline-block;
     height: 2000px;
     float: right;
