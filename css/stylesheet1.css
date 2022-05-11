@@ -4,6 +4,16 @@ height: 50px;
 background-color: black;
 font-style: italic;
 }
+
+a:link{
+    color:white
+}
+a:visited{
+    color:yellow
+}
+a:hover{
+    color: blue;
+}
 #head{
     background-color: blue;
     width: 100%;
